@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/advancedSwitches/advancedSwitches.iml" filepath="$PROJECT_DIR$/advancedSwitches/advancedSwitches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arithmeticOperators/arithmeticOperators.iml" filepath="$PROJECT_DIR$/arithmeticOperators/arithmeticOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breakContinue/breakContinue.iml" filepath="$PROJECT_DIR$/breakContinue/breakContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculatorProgram/calculatorProgram.iml" filepath="$PROJECT_DIR$/calculatorProgram/calculatorProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionsIfElse/conditionsIfElse.iml" filepath="$PROJECT_DIR$/conditionsIfElse/conditionsIfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forLoop/forLoop.iml" filepath="$PROJECT_DIR$/forLoop/forLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interestCalculator/interestCalculator.iml" filepath="$PROJECT_DIR$/interestCalculator/interestCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logicalOperators/logicalOperators.iml" filepath="$PROJECT_DIR$/logicalOperators/logicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/madLibsGame/madLibsGame.iml" filepath="$PROJECT_DIR$/madLibsGame/madLibsGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/math/math.iml" filepath="$PROJECT_DIR$/math/math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mathHypotenuse/mathHypotenuse.iml" filepath="$PROJECT_DIR$/mathHypotenuse/mathHypotenuse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nestedIfStatements/nestedIfStatements.iml" filepath="$PROJECT_DIR$/nestedIfStatements/nestedIfStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nestedLoops/nestedLoops.iml" filepath="$PROJECT_DIR$/nestedLoops/nestedLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numberGuessing/numberGuessing.iml" filepath="$PROJECT_DIR$/numberGuessing/numberGuessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overloadedMethods/overloadedMethods.iml" filepath="$PROJECT_DIR$/overloadedMethods/overloadedMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/printf/printf.iml" filepath="$PROJECT_DIR$/printf/printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prints/prints.iml" filepath="$PROJECT_DIR$/prints/prints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random/random.iml" filepath="$PROJECT_DIR$/random/random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoppingCartProgram/shoppingCartProgram.iml" filepath="$PROJECT_DIR$/shoppingCartProgram/shoppingCartProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringMethods/stringMethods.iml" filepath="$PROJECT_DIR$/stringMethods/stringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subString/subString.iml" filepath="$PROJECT_DIR$/subString/subString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ternaryOperator/ternaryOperator.iml" filepath="$PROJECT_DIR$/ternaryOperator/ternaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userInput/userInput.iml" filepath="$PROJECT_DIR$/userInput/userInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variableScope/variableScope.iml" filepath="$PROJECT_DIR$/variableScope/variableScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weightConverter/weightConverter.iml" filepath="$PROJECT_DIR$/weightConverter/weightConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/whileLoop/whileLoop.iml" />
+    </modules>
+  </component>
+</project>
