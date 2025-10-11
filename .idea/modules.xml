@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/advancedSwitches/advancedSwitches.iml" filepath="$PROJECT_DIR$/advancedSwitches/advancedSwitches.iml" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticOperators/arithmeticOperators.iml" filepath="$PROJECT_DIR$/arithmeticOperators/arithmeticOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankingProgram/bankingProgram.iml" filepath="$PROJECT_DIR$/bankingProgram/bankingProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/breakContinue/breakContinue.iml" filepath="$PROJECT_DIR$/breakContinue/breakContinue.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculatorProgram/calculatorProgram.iml" filepath="$PROJECT_DIR$/calculatorProgram/calculatorProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditionsIfElse/conditionsIfElse.iml" filepath="$PROJECT_DIR$/conditionsIfElse/conditionsIfElse.iml" />
