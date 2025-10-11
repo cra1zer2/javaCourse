@@ -23,7 +23,7 @@ public class Main {
             switch (choice) {
                 case 1 -> showBalance(balance);
                 case 2 -> balance += deposit();
-                case 3 -> balance = balance - withdraw(balance);
+                case 3 -> balance = withdraw(balance);
                 case 4 -> isRunning = false;
                 default -> System.out.println("Invalid choice");
             }
@@ -85,7 +85,7 @@ public class Main {
         }
         else{
             oneSecondLatency();
-            return balance - amount;
+            return (float) balance - amount;
         }
     }
 }
