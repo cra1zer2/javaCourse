@@ -42,6 +42,8 @@ public class Main {
 
         } while (playAgain);
 
+        System.out.println("Thanks for playing!");
+
         sc.close();
     }
 
