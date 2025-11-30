@@ -27,16 +27,7 @@ public class Main {
         System.out.println("Users table");
 
         for (User u : users) {
-            System.out.printf("%-20s", u.username);
+            System.out.printf("%-15s %-15s %-15s %n", u.username, u.email, u.age);
         }
-        System.out.println();
-        for (User u : users) {
-            System.out.printf("%-20s", u.email);
-        }
-        System.out.println();
-        for (User u : users) {
-            System.out.printf("%-20s", u.age);
-        }
-        System.out.println();
     }
 }
