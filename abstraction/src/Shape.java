@@ -1,0 +1,11 @@
+public abstract class Shape {
+
+    abstract double area();
+
+
+    // concrete method
+    void display() {
+        System.out.println("This is a shape");
+    }
+
+}
