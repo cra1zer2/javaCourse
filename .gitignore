@@ -33,6 +33,55 @@
 /runtimePolymorphism/.idea/vcs.xml
 /slotMachine/.idea/vcs.xml
 /runtimePolymorphysm/.idea/workspace.xml
+aggregation/.gitignore
+aggregation/agregation.iml
+aggregation/.idea/.gitignore
+aggregation/.idea/misc.xml
+aggregation/.idea/modules.xml
+aggregation/.idea/vcs.xml
+agregation/.idea/workspace.xml
+arrayList/.gitignore
+arrayList/arrayList.iml
+arrayList/.idea/.gitignore
+arrayList/.idea/misc.xml
+arrayList/.idea/modules.xml
+arrayList/.idea/vcs.xml
+composition/.gitignore
+composition/composition.iml
+composition/.idea/.gitignore
+composition/.idea/misc.xml
+composition/.idea/modules.xml
+composition/.idea/vcs.xml
+datesTimes/.gitignore
+datesTimes/datesTimes.iml
+datesTimes/.idea/.gitignore
+datesTimes/.idea/misc.xml
+datesTimes/.idea/modules.xml
+datesTimes/.idea/vcs.xml
+getterSetter/.gitignore
+getterSetter/getterSetter.iml
+getterSetter/.idea/.gitignore
+getterSetter/.idea/misc.xml
+getterSetter/.idea/modules.xml
+getterSetter/.idea/vcs.xml
+musicPlayer/.gitignore
+musicPlayer/musicPlayer.iml
+musicPlayer/.idea/.gitignore
+musicPlayer/.idea/misc.xml
+musicPlayer/.idea/modules.xml
+musicPlayer/.idea/vcs.xml
+readingFiles/.gitignore
+readingFiles/readingFiles.iml
+readingFiles/.idea/.gitignore
+readingFiles/.idea/misc.xml
+readingFiles/.idea/modules.xml
+readingFiles/.idea/vcs.xml
+wrapper classes/.gitignore
+wrapper classes/wrapper classes.iml
+wrapper classes/.idea/.gitignore
+wrapper classes/.idea/misc.xml
+wrapper classes/.idea/modules.xml
+wrapper classes/.idea/vcs.xml
 arraylist/.gitignore
 constructors/.gitignore
 exception/.gitignore
