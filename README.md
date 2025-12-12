@@ -7,20 +7,31 @@ A collection of Java exercises, code examples, and mini-projects created for edu
 The code is organized into folders by topic. Below is an overview of the covered concepts and projects.
 
 ### ☕ Core Concepts & Syntax
-- **Basics:** `variables`, `prints`, `userInput`, `printf`, `random`[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fcra1zer2%2FjavaCourse)]
-- **Operators & Math:** `arithmeticOperators`, `logicalOperators`, `math`, `mathHypotenuse`[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fcra1zer2%2FjavaCourse)]
+- **Basics:** `variables`, `prints`, `userInput`, `printf`, `random`
+- **Operators & Math:** `arithmeticOperators`, `logicalOperators`, `math`, `mathHypotenuse`
 - **Strings:** `stringMethods`, `subString`
+- **Other:** `wrapper classes`, `exception`
 
 ### 🔄 Control Flow
 - **Conditionals:** `conditionsIfElse`, `nestedIfStatements`, `advancedSwitches`, `ternaryOperator`
 - **Loops:** `forLoop`, `whileLoop`, `nestedLoops`, `breakContinue`
 
 ### 📦 Data Structures
-- **Arrays:** `arrays`, `array2D`, `searchArray`, `userInputArrays`
+- **Arrays & Lists:** `arrays`, `array2D`, `searchArray`, `userInputArrays`, `arraylist`
 
 ### 🛠️ Methods & OOP
 - **Methods:** `methods`, `overloadedMethods`, `varargs`
-- **Object-Oriented:** `objectOrientedProgramming`, `constructors`, `overloadedConstructors`, `variableScope`
+- **Classes & Objects:** `objectOrientedProgramming`, `constructors`, `overloadedConstructors`, `variableScope`, `objectsArray`
+- **Class Members:** `getterSetter`, `toString`, `static`
+
+### 🧬 Advanced OOP
+- **Inheritance & Hierarchy:** `inheritance`, `super`, `methodOverriding`
+- **Polymorphism:** `polymorphism`, `runtimePolymorphism`
+- **Abstraction:** `abstraction`, `interfaces`
+- **Relationships:** `composition`, `aggregation`
+
+### 💾 File I/O
+- `writingFiles`
 
 ### 🚀 Mini-Projects
 Practical applications combining multiple concepts:
@@ -31,10 +42,11 @@ Practical applications combining multiple concepts:
     - 🔢 `numberGuessing`
     - ✂️ `rockPaperScissors`
     - 🎰 `slotMachine`
-- **Utilities:**
+- **Utilities & Apps:**
     - 🏦 `bankingProgram`
     - 🧮 `calculatorProgram`
     - 📈 `interestCalculator`
+    - 🎵 `musicPlayer`
     - 🛒 `shoppingCartProgram`
     - ⚖️ `weightConverter`
 
