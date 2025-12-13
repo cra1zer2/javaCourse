@@ -12,15 +12,14 @@ public class TimeAnalyzer {
 
         System.out.println("\n--- High Precision Analysis Results ---");
 
-        // Calculate startup delay using nanoseconds for precision
         long startNanos = Duration.between(timestamps.get(0), timestamps.get(1)).toNanos();
-        double startDelayMs = startNanos / 1_000_000.0; // Convert to ms with decimals
+        double startDelayMs = startNanos / 1_000_000.0;
 
         System.out.println(String.format("Startup delay: %.4f ms", startDelayMs));
 
         long totalErrorNanos = 0;
         int intervalCount = 0;
-        long targetNanos = 1_000_000_000L; // 1000 ms = 1 billion nanoseconds
+        long targetNanos = 1_000_000_000L;
 
         System.out.println("Interval details:");
 
@@ -31,7 +30,6 @@ public class TimeAnalyzer {
             long actualNanos = Duration.between(current, next).toNanos();
             long errorNanos = Math.abs(actualNanos - targetNanos);
 
-            // Convert for display
             double actualMs = actualNanos / 1_000_000.0;
             double errorMs = errorNanos / 1_000_000.0;
 
